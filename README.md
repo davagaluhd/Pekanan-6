@@ -2,9 +2,9 @@
 
 Halo, ini adalah Tugas Akhir (SanberCode Automation) 
 
-Test case scenario:
+- Test case scenario:
 (https://docs.google.com/spreadsheets/d/1q2qXJL1STlzQFOIuQzBL-ZI22lohY5pxG0AvQw9v1IE/edit?usp=sharing)
-Cara menjalankan script:
+- Cara menjalankan script:
 (https://drive.google.com/file/d/1I-bT-rMUOTWifP7kjx2iicUygiI21qIN/view?usp=share_link)
 
 1. Buka Terminal
